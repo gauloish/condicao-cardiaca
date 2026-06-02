@@ -1,8 +1,8 @@
-## Patologias Cardíacas em Crianças e Adolescentes
+# Patologias Cardíacas em Crianças e Adolescentes
 
 Este projeto tem como objetivo criar e executar um pipeline extração de conhecimento e predição de patologias cardíacas em crianças e adolescentes. Os dados utilizados foram disponibilizados pelo Real Hospital Português (RHP) em Recife-PE, anonimizados com a aprovação do Comitê de Ética do RHP.
 
-### Requisitos do Projeto
+## Requisitos do Projeto
 
 Abaixo temos uma lista de softwares necessários:
 
@@ -10,7 +10,7 @@ Abaixo temos uma lista de softwares necessários:
 - **[uv](https://docs.astral.sh/uv/getting-started/installation/) (0.11.18+):** Gerenciador de pacotes e ambientes virtuais.
 - **[Git](https://git-scm.com/install/linux) (2.54+):** Sistema de versionamento do projeto.
 
-### Setup do Projeto
+## Setup do Projeto
 
 Primeiro, é necessário clonar o repositório:
 
